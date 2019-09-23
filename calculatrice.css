@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin: auto;
+}
+
+#result {
+    border: solid black 1px;
+    padding: 2em;
+    width: 76%;
+    margin: auto; 
+}
+
+.number {
+    display: inline-block;
+}
+
+button {
+    border: solid black 1px;
+    padding: .5em;
+    width: 20%;
+    height: 50px;
+}
+
+button:hover {
+    cursor: pointer;
+}
