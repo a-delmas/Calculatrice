@@ -6,7 +6,7 @@ body {
 #result {
     border: solid black 1px;
     padding: 2em;
-    width: 76%;
+    width: 75%;
     margin: auto; 
 }
 
@@ -17,8 +17,8 @@ body {
 button {
     border: solid black 1px;
     padding: .5em;
-    width: 20%;
-    height: 50px;
+    width: 18%;
+    height: 60px;
 }
 
 button:hover {
