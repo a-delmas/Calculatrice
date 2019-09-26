@@ -21,12 +21,24 @@ for (i = 0; i < btnlist.length; i++ ){
         else {
             resultElement.innerHTML = resultElement.innerHTML + c;
         }
+
+// Boucle pour reset
+
         var d = this.innerHTML
         if (d == "Reset") {
-            result.innerHTML = "";
+            result = "";
         }
+
+        if (button.value == "+" , "+") {
+            alert("NON")
+        }
+            
+
     });
+
 }
+
+
 
 
 
