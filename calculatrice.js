@@ -26,10 +26,10 @@ for (i = 0; i < btnlist.length; i++ ){
 
         var d = this.innerHTML
         if (d == "Reset") {
-            result = "";
+            result.innerHTML = "";
         }
 
-        if (button.value == "+" , "+") {
+        if (result == "++") {
             alert("NON")
         }
             
