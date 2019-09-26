@@ -29,11 +29,6 @@ for (i = 0; i < btnlist.length; i++ ){
             result.innerHTML = "";
         }
 
-        if (result == "++") {
-            alert("NON")
-        }
-            
-
     });
 
 }
